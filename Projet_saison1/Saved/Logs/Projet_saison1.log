@@ -1117,3 +1117,31 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.10.14-20.08.33:892][  0]LogViewport: Scene viewport resized to 1526x611, mode Windowed.
 [2023.10.14-20.08.33:993][  0]LogAutomationController: Ignoring very large delta of 16783592.98 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.10.14-20.08.34:903][ 79]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.08.59:579][866]LogSlate: Window 'New Level' being destroyed
+[2023.10.14-20.08.59:587][866]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.14-20.08.59:588][866]LightingResults: New page: Lighting Build
+[2023.10.14-20.08.59:588][866]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.10.14-20.08.59:589][866]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.14-20.08.59:590][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.14-20.08.59:591][866]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.14-20.08.59:591][866]MapCheck: New page: Map Check
+[2023.10.14-20.08.59:591][866]LightingResults: New page: Lighting Build
+[2023.10.14-20.08.59:597][866]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.14-20.08.59:599][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.10.14-20.08.59:611][866]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.10.14-20.08.59:611][866]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.14-20.08.59:611][866]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.14-20.08.59:611][866]LogAIModule: Creating AISystem for world Untitled_1
+[2023.10.14-20.08.59:619][866]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.14-20.08.59:626][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.10.14-20.08.59:626][866]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.14-20.08.59:626][866]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,277ms to complete.
+[2023.10.14-20.08.59:626][866]LogFileHelpers: Loading map 'Template_Default' took 0.039
+[2023.10.14-20.08.59:631][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.08.59:631][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.08.59:632][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.08.59:632][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.08.59:632][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.08.59:633][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.08.59:633][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.08.59:633][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
