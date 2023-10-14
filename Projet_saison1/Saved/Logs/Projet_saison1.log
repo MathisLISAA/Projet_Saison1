@@ -1276,3 +1276,11 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.10.14-20.19.39:287][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 860 ms)
 [2023.10.14-20.19.39:292][186]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
 [2023.10.14-20.19.39:292][186]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.10.14-20.20.24:626][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-20.20.24:673][226]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.10.14-20.20.24:674][226]LogSavePackage: Moving '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Saved/BP_FirstPersonCharacter08CB809F4EAFB3A1CB5FBEA9830FA1F6.tmp' to '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.10.14-20.20.24:680][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 915 ms)
+[2023.10.14-20.20.24:684][226]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.10.14-20.20.24:684][226]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.10.14-20.20.25:896][323]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.10.14-20.20.25:974][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
