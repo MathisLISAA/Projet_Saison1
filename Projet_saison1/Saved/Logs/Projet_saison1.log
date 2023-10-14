@@ -1145,3 +1145,118 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.10.14-20.08.59:633][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.10.14-20.08.59:633][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.10.14-20.08.59:633][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.10:822][160]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.14-20.09.10:870][161]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.14-20.09.10:879][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.14-20.09.11:498][209]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.10.14-20.09.11:499][209]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.14-20.09.11:499][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.14-20.09.12:401][209]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.14-20.09.29:251][629]LogEditorTransaction: Undo Move Nodes
+[2023.10.14-20.09.29:292][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.29:292][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.29:293][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.29:293][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.29:293][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.29:294][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.29:294][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.29:294][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.31:666][814]LogEditorTransaction: Undo Move Node
+[2023.10.14-20.09.31:680][814]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.31:680][814]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.31:680][814]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.31:681][814]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.31:681][814]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.31:681][814]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.31:682][814]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.31:682][814]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.09.54:950][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.14-20.10.31:168][971]LogDerivedDataCache: C:/Users/logan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.110 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2889 files in 4006 folders with total size 117 MiB.
+[2023.10.14-20.11.52:470][747]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.10.14-20.11.52:546][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.10.14-20.13.34:888][591]LogEditorTransaction: Undo Resize Node
+[2023.10.14-20.13.34:930][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.13.34:931][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.13.34:931][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.13.34:931][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.13.34:932][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.13.34:932][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.13.34:932][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.13.34:933][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.14.48:928][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-20.14.48:996][713]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.008224 seconds
+[2023.10.14-20.14.48:999][713]LogSerialization: UsePackageTrailer: 'true'
+[2023.10.14-20.14.49:001][713]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.10.14-20.14.49:276][713]LogSavePackage: Moving '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Saved/BP_FirstPersonCharacter66092F5C4916A0D8CECA5199AEDEEC7C.tmp' to '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.10.14-20.14.49:286][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 358 ms
+[2023.10.14-20.14.49:290][713]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.10.14-20.14.49:290][713]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.10.14-20.16.09:559][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-20.16.09:626][949]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.10.14-20.16.09:627][949]LogSavePackage: Moving '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Saved/BP_FirstPersonCharacter5608C31F461BA4E21672BB83CAB06461.tmp' to '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.10.14-20.16.09:634][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 432 ms)
+[2023.10.14-20.16.09:641][949]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.10.14-20.16.09:642][949]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.10.14-20.16.15:243][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-20.16.15:289][437]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.10.14-20.16.15:290][437]LogSavePackage: Moving '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Saved/BP_FirstPersonCharacter7F5642FA454A5D9A4B1837A45FDA4419.tmp' to '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.10.14-20.16.15:296][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 485 ms)
+[2023.10.14-20.16.15:299][437]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.10.14-20.16.15:299][437]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.10.14-20.16.27:719][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-20.16.27:769][606]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.10.14-20.16.27:769][606]LogSavePackage: Moving '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Saved/BP_FirstPersonCharacter7877562F4C4943818DC339BF80865D9B.tmp' to '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.10.14-20.16.27:775][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 541 ms)
+[2023.10.14-20.16.27:779][606]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.10.14-20.16.27:779][606]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.10.14-20.16.37:220][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-20.16.37:273][386]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.10.14-20.16.37:273][386]LogSavePackage: Moving '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Saved/BP_FirstPersonCharacterBF1EBD804AC6ABDAE35D6F875CDD4CC2.tmp' to '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.10.14-20.16.37:279][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 601 ms)
+[2023.10.14-20.16.37:284][386]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.10.14-20.16.37:284][386]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.10.14-20.16.37:949][439]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.10.14-20.16.37:972][439]LogBlueprint: Error: [AssetLog] D:\GitHub\Projet_Saison1\Projet_Saison1\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Found more than one function with the same name InpAxisEvt_Forward/Backward_K2Node_InputAxisEvent_0; second occurance at  InputAxis Forward/Backward
+[2023.10.14-20.16.38:034][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.10.14-20.17.00:363][338]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.10.14-20.17.00:385][338]LogBlueprint: Error: [AssetLog] D:\GitHub\Projet_Saison1\Projet_Saison1\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Found more than one function with the same name InpAxisEvt_Forward/Backward_K2Node_InputAxisEvent_0; second occurance at  InputAxis Forward/Backward
+[2023.10.14-20.17.00:434][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.10.14-20.17.08:302][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-20.17.08:366][ 52]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.10.14-20.17.08:366][ 52]LogSavePackage: Moving '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Saved/BP_FirstPersonCharacter8AFD53DC43F415E9F84289A9921252E4.tmp' to '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.10.14-20.17.08:372][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 671 ms)
+[2023.10.14-20.17.08:375][ 52]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.10.14-20.17.08:376][ 52]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.10.14-20.17.10:827][280]LogEditorTransaction: Undo Move Node
+[2023.10.14-20.17.10:875][280]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.10:875][280]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.10:876][280]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.10:876][280]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.10:876][280]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.10:877][280]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.10:877][280]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.10:877][280]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.24:136][504]LogEditorTransaction: Undo Move Nodes
+[2023.10.14-20.17.24:191][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.24:191][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.24:192][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.24:192][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.24:192][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.24:193][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.24:193][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.24:193][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.14-20.17.31:919][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-20.17.31:980][132]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.10.14-20.17.31:980][132]LogSavePackage: Moving '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Saved/BP_FirstPersonCharacter8F7022A046EE511CB7BB73B42FC5EC6E.tmp' to '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.10.14-20.17.31:987][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 739 ms)
+[2023.10.14-20.17.31:991][132]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.10.14-20.17.31:991][132]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.10.14-20.17.35:176][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.14-20.17.35:219][408]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.10.14-20.17.35:220][408]LogSavePackage: Moving '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Saved/BP_FirstPersonCharacterEC9B9D3641C1A3B71E76788CB0CB1BFE.tmp' to '../../../../../GitHub/Projet_Saison1/Projet_Saison1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.10.14-20.17.35:226][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 789 ms)
+[2023.10.14-20.17.35:230][408]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.10.14-20.17.35:230][408]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.10.14-20.17.35:999][468]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.10.14-20.17.36:019][468]LogBlueprint: Error: [AssetLog] D:\GitHub\Projet_Saison1\Projet_Saison1\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Found more than one function with the same name InpAxisEvt_Forward/Backward_K2Node_InputAxisEvent_0; second occurance at  InputAxis Forward/Backward
+[2023.10.14-20.17.36:069][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
